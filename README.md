@@ -1,68 +1,22 @@
-# 👋 Hi, I'm Naveen Kumar (ChipJUICE)
+<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
+<h3 align="center">ASIC Physical Design • RTL → GDSII • SoC Engineer</h3>
 
-🎓 **MS in Computer Engineering** @ **NYU Tandon** — *Graduating May 2026*  
-💡 **ASIC Physical Design | RTL → GDSII | SoC Integration | Timing Closure**
-
-I’m a hardware engineer passionate about building **production-grade silicon**, with deep hands-on experience in **full-chip physical design**, **custom RTL systems**, and **advanced SoC integration** using both **industry EDA tools** and **open-source flows**.
-
----
-
-## 🛠️ Technical Focus
-
-### 🔹 ASIC / Physical Design
-- RTL → **GDSII** full flow (floorplanning, CTS, routing, signoff)
-- **MMMC STA**, timing closure, ECO flows
-- **DRC/LVS**, IR drop, congestion, antenna fixes
-- **Macro-aware floorplanning** & PDN (rings, straps, SRoute)
-- **TSMC 16nm-class PDK**
-
-### 🔹 Tools & EDA
-**Cadence:** Innovus, Virtuoso, Tempus, Conformal  
-**Synopsys:** Design Compiler, VCS, Verdi  
-**Languages:** SystemVerilog, Verilog, Tcl, Python, C/C++
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=20&center=true&vCenter=true&width=650&lines=MS+Computer+Engineering+%40+NYU+Tandon;Graduating+May+2026;Physical+Design+%7C+Timing+Closure+%7C+SoC+Integration;Turning+RTL+into+Silicon" />
+</p>
 
 ---
 
-## 🧪 Featured Projects
+### 🛠️ What I Do
+🚀 **ASIC Physical Design** | **MMMC STA** | **Timing Closure**  
+🧩 **RTL → GDSII** | **SoC Integration** | **RISC-V Systems**
 
-### 🚀 CubeSat ASIC Telemetry-Enhanced RISC-V SoC  
-**Physical Design | RTL → GDSII**
-- Closed **0 setup/hold violations @ 300 MHz**
-- Full Innovus flow with **MMMC STA**
-- Integrated **telemetry, debug, trace engines**
-- **DRC/LVS-clean GDSII** in **TSMC 16nm-class PDK**
-
-### 🧠 MBIST for 64×8 SRAM  
-**SystemVerilog | Physical Design**
-- **100% fault coverage** using March algorithms
-- Gate-level validated MBIST controller
-- **250 MHz timing closure**, **<5% area overhead**
-
-### 🧩 Custom 8-bit Harvard CPU  
-**RTL Design & Verification**
-- 20+ instruction ISA, ALU, UART
-- **25% throughput improvement**
-- **18% critical-path reduction**
-- **92% functional coverage**
+**Tools:** Innovus • Design Compiler • VCS • Verdi • Tempus  
+**Languages:** SystemVerilog • Verilog • Tcl • Python • C/C++
 
 ---
 
-## 🧩 What I'm Building Now
-- RISC-V SoC subsystems
-- MBIST-integrated SRAM macros
-- AI-assisted RTL & PD automation (**LLM4ChipDesign**, **AutoChip**, **ChipChat**)
-
----
-
-## 📈 Career Goal
-I’m focused on **Physical Design Engineer** and **ASIC Implementation** roles in high-performance silicon teams.
-
----
-
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🧑‍💻 [GitHub](https://github.com/ChipJUICE)
-
----
-
-> *“Turning RTL into silicon that closes timing.”*
+### 🧪 Highlighted Work
+🔹 **CubeSat RISC-V SoC** — 0 setup/hold @ **300 MHz**, TSMC 16 nm  
+🔹 **MBIST SRAM** — 100% fault coverage, <5% area overhead  
+🔹 **8-bit CPU** — 25% faster ALU, 18% shorter critical path
