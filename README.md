@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">Aspiring ASIC Physical Design • RTL → GDSII • SoC Engineer</h3>
+<h3 align="center">Aspiring Physical Design • RTL → GDSII • SoC Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=20&center=true&vCenter=true&width=650&lines=MS+Computer+Engineering+%40+NYU+Tandon;Graduating+May+2026;Physical+Design+%7C+Timing+Closure+%7C+SoC+Integration;Turning+RTL+into+Silicon" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ What I Do
-🚀 **ASIC Physical Design** | **MMMC STA** | **Timing Closure**  
+🚀 **Physical Design** | **MMMC STA** | **Timing Closure**  
 🧩 **RTL → GDSII** | **SoC Integration** | **RISC-V Systems**
 
 **Tools:** Innovus • Design Compiler • VCS • Verdi • Tempus  
