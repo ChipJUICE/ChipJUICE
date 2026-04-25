@@ -10,7 +10,7 @@
 🚀 **Physical Design** | **MMMC STA** | **Timing Closure**  
 🧩 **RTL → GDSII** | **SoC Integration** | **RISC-V Systems**
 
-**Tools:** Innovus • Design Compiler • PrimeTime • VCS • Verdi • Tempus  
+**Tools:** Innovus • Design Compiler • PrimeTime • VCS • Genus  
 **Languages:** SystemVerilog • Verilog • Tcl • Python • C/C++
 
 ---
